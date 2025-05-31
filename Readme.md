@@ -1,4 +1,4 @@
-# Project Name
+# Chat App
 
 Brief description of what the app does.
 
